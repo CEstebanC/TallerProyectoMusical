@@ -175,7 +175,7 @@ body {
     font-size: 0.82rem;
 }
 
-@media (max-width: 900px) {
+ (max-width: 900px) {
     .content-section, .content-section.reverse {
         flex-direction: column;
         padding: 60px 6%;
